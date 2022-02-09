@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "dio-curso-introducao-ao-c-sharp": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}

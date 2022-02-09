@@ -1,0 +1,15 @@
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-introducao-ao-c-sharp\bin\Debug\net6.0\dio-curso-introducao-ao-c-sharp.exe
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-introducao-ao-c-sharp\bin\Debug\net6.0\dio-curso-introducao-ao-c-sharp.deps.json
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-introducao-ao-c-sharp\bin\Debug\net6.0\dio-curso-introducao-ao-c-sharp.runtimeconfig.json
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-introducao-ao-c-sharp\bin\Debug\net6.0\dio-curso-introducao-ao-c-sharp.dll
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-introducao-ao-c-sharp\bin\Debug\net6.0\ref\dio-curso-introducao-ao-c-sharp.dll
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-introducao-ao-c-sharp\bin\Debug\net6.0\dio-curso-introducao-ao-c-sharp.pdb
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-introducao-ao-c-sharp\obj\Debug\net6.0\dio-curso-introducao-ao-c-sharp.csproj.AssemblyReference.cache
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-introducao-ao-c-sharp\obj\Debug\net6.0\dio-curso-introducao-ao-c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-introducao-ao-c-sharp\obj\Debug\net6.0\dio-curso-introducao-ao-c-sharp.AssemblyInfoInputs.cache
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-introducao-ao-c-sharp\obj\Debug\net6.0\dio-curso-introducao-ao-c-sharp.AssemblyInfo.cs
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-introducao-ao-c-sharp\obj\Debug\net6.0\dio-curso-introducao-ao-c-sharp.csproj.CoreCompileInputs.cache
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-introducao-ao-c-sharp\obj\Debug\net6.0\dio-curso-introducao-ao-c-sharp.dll
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-introducao-ao-c-sharp\obj\Debug\net6.0\ref\dio-curso-introducao-ao-c-sharp.dll
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-introducao-ao-c-sharp\obj\Debug\net6.0\dio-curso-introducao-ao-c-sharp.pdb
+D:\Programas no Visual Studio Code\C-Sharp\dio-curso-introducao-ao-c-sharp\obj\Debug\net6.0\dio-curso-introducao-ao-c-sharp.genruntimeconfig.cache
